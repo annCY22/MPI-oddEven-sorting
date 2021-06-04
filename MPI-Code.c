@@ -153,7 +153,7 @@ do{
 	}
 
 
- 	if (count == localn){
+ 	if (count == localn){	/*Checking if there any change in array after sorting */
 
 		done = 1;
 		finaldone = 1;
